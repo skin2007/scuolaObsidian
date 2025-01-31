@@ -1,2 +1,0 @@
-
-senza nome 1
