@@ -1,0 +1,3 @@
+## Avvenimenti
+- Nel castello candido e cunegonda si baciano e candido viene cacciato via
+- Candido si ritrova a vagare, e viene arruolato dai bulgari a forza e lo portarono al reggimento e li fecero fare esercizi. Un giorno andò a fare una passeggiata, 4 uomini lo portarono in prigione. Candido dopo le frustate vuole essere ucciso, poi il re dei bulgari capisce che era ignorante delle cose del mondo e lo graziò. Candido viene curato e subito dopo il re dei bulgari da battaglia al re degli avari
