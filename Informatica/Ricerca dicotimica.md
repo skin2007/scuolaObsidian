@@ -12,7 +12,6 @@ La **ricerca dicotomica**, detta anche **ricerca binaria**, è un algoritmo effi
 
 5. Si ripete il processo fino a trovare l’elemento o a esaurire la lista.
 
-  
 ### Esempio
 
 
@@ -20,7 +19,7 @@ Cerchiamo il numero **7** in questa lista ordinata:
 
 **[1, 3, 5, 7, 9, 11, 13]**
 
-• **Primo passo**: il centro è **7** 
+• **Primo passo**: il centro è **7**
 
 Se cercassimo **9**, divideremmo la lista e continueremmo nella metà destra.
 

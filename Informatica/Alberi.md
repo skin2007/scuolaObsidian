@@ -31,7 +31,7 @@ ALTEZZA: 3
 
 In una **lista** **concatenata**, per cercare un elemento bisogna attraversare i nodi uno alla volta, seguendo i puntatori. Questo significa che la ricerca ha una complessità di **O(n)**, proprio come per un **array** **non** **ordinato**.
 
-Tuttavia, a differenza degli array, non è possibile usare una **ricerca** **dicotomica** (o ricerca binaria) su una lista concatenata. Questo perché non possiamo accedere direttamente a un elemento specifico, ma dobbiamo sempre partire dall'inizio della lista e seguire i collegamenti.
+Tuttavia, a differenza degli array, non è possibile usare una **[[Ricerca dicotimica]]**  (o ricerca binaria) su una lista concatenata. Questo perché non possiamo accedere direttamente a un elemento specifico, ma dobbiamo sempre partire dall'inizio della lista e seguire i collegamenti.
 
 Gli **alberi** **binari** **di** **ricerca** (**BST**, Binary Search Tree) risolvono questo problema. In un BST:
 
